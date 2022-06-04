@@ -12,6 +12,7 @@ char character;
 for (character = 'a'; character <= 'z'; character++)
 	{
 	putchar(character);
+	putchar()
 	}
 return (0);
 }
