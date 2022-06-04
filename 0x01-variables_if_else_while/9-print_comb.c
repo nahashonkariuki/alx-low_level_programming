@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - entry point
@@ -19,6 +19,6 @@ for (number = 0; number <= 9; number++)
 		{																	putchar(',');
 		putchar(' ');																	}
 	}
-	putchar('\n');
+putchar('\n');
 return (0);
 }
