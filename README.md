@@ -1,2 +1,1 @@
-# alx-low_level_programming
-##This is C programming language
+this is the debugging readme
