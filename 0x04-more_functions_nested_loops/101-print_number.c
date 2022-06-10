@@ -6,7 +6,7 @@
  * Return: void
  */
 
-void print_number(int n)
+void main(int n)
 {
 	unsigned int num = n;
 
